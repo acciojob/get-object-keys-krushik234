@@ -4,4 +4,4 @@ let students = {
     branch : mechanical
 
 }
-console.log(students.keys())
+console.log(object.keys(student))
